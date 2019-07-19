@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Materia Style flat theme with a nice green
+Name=Materia Manjaro
+X-KDE-PluginInfo-Author=Josh Freeno
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=freefreeno81@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Materia-Manjaro
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/freefreeno/Materia-Manjaro
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1297506,kns://plasma-themes.knsrc/api.kde-look.org/1297508,kns://aurorae.knsrc/api.kde-look.org/1308855,kns://icons.knsrc/api.kde-look.org/1309919,kns://wallpaper.knsrc/api.kde-look.org/1296893
