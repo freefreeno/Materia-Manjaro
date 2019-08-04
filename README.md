@@ -20,7 +20,7 @@ In this repository you'll find:
 
 - For better looking use toolbar icons without text with 16px size (for Papirus themes)
 
-- For Materia Blur enable translucency and blur effects on KDE sytemsettings. Set value 5 for noise and blur strengths on blur effect settings.
+- For Materia Blur enable translucency and blur effects on KDE sytemsettings. Set value 6 for blur and 2 for noise strengths on blur effect settings.
 
 - Recommended software for better experience with Materia Blur: Dolphin, Ark, Kate,Falkon, Konsole
 
@@ -53,6 +53,13 @@ Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
 Xft.rgba:      rgb 
 ```
+
+## Donate
+
+If you like my project, you can donate at:
+
+<span class="paypal"><a href="https://www.paypal.me/freefreeno" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
+
 
 ## License
 
