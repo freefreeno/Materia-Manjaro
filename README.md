@@ -2,13 +2,14 @@
 Materia Manjaro - This is a port of the popular [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) for Plasma 5 desktop with a few additions and extras. 
 
 In this repository you'll find:
-- Two sets of folder icons
+- Three sets of folder icons
 - Konsole Color Scheme
-- Plasma Color Scheme
-- Plasma Desktop Theme
-- Plasma Look-and-Feel Settings
-- Materia Manjaro GTK Theme made specifically for KDE.
-
+- Two Plasma Color Schemes
+- Four Plasma Desktop Themes
+- Plasma Look-and-Feel Settings with Splash Screen
+- Two Materia Manjaro GTK Theme made specifically for KDE.
+- Kvantum Theme
+- Four Aurorae Themes
 
 ## Recommendations
 
