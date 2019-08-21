@@ -1,12 +1,14 @@
 [Desktop Entry]
-Name=Materia Manjaro
 Comment=Materia Style theme with nice green and two color schemes to choose from
+
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Materia Manjaro
 
 Type=Service
 
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
 X-KDE-PluginInfo-Author=Josh Freeno
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Email=
