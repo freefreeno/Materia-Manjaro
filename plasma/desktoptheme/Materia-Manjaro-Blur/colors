@@ -21,90 +21,90 @@ IntensityEffect=0
 [Colors:Button]
 BackgroundAlternate=77,77,77
 BackgroundNormal=66,66,66
-DecorationFocus=0,128,116
-DecorationHover=0,128,116
-ForegroundActive=0,189,171
+DecorationFocus=0,159,144
+DecorationHover=0,159,144
+ForegroundActive=0,179,162
 ForegroundInactive=105,105,105
 ForegroundLink=0,154,139
 ForegroundNegative=218,68,83
 ForegroundNeutral=255,109,0
 ForegroundNormal=252,252,252
-ForegroundPositive=34,204,204
-ForegroundVisited=20,204,186
+ForegroundPositive=19,190,174
+ForegroundVisited=20,204,187
 
 [Colors:Complementary]
 BackgroundAlternate=48,48,48
 BackgroundNormal=40,40,40
-DecorationFocus=0,128,116
+DecorationFocus=0,159,144
 DecorationHover=0,148,134
 ForegroundActive=246,116,0
 ForegroundInactive=175,176,179
 ForegroundLink=0,159,144
 ForegroundNegative=237,21,21
 ForegroundNeutral=201,206,59
-ForegroundNormal=239,240,241
+ForegroundNormal=223,223,223
 ForegroundPositive=14,178,19
 ForegroundVisited=0,159,144
 
 [Colors:Selection]
 BackgroundAlternate=0,148,134
-BackgroundNormal=0,128,116
-DecorationFocus=0,128,116
-DecorationHover=0,128,116
+BackgroundNormal=0,159,144
+DecorationFocus=0,159,144
+DecorationHover=0,159,144
 ForegroundActive=252,252,252
 ForegroundInactive=255,255,255
 ForegroundLink=253,188,75
 ForegroundNegative=218,68,83
 ForegroundNeutral=255,109,0
 ForegroundNormal=255,255,255
-ForegroundPositive=34,204,204
-ForegroundVisited=189,189,189
+ForegroundPositive=19,190,174
+ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
 BackgroundAlternate=40,40,40
 BackgroundNormal=40,40,40
-DecorationFocus=0,128,116
-DecorationHover=0,128,116
-ForegroundActive=0,189,171
+DecorationFocus=0,159,144
+DecorationHover=0,159,144
+ForegroundActive=0,179,162
 ForegroundInactive=105,105,105
 ForegroundLink=0,154,139
 ForegroundNegative=218,68,83
 ForegroundNeutral=255,109,0
 ForegroundNormal=223,223,223
-ForegroundPositive=34,204,204
-ForegroundVisited=20,204,186
+ForegroundPositive=19,190,174
+ForegroundVisited=20,204,187
 
 [Colors:View]
 BackgroundAlternate=48,48,48
 BackgroundNormal=48,48,48
-DecorationFocus=0,128,116
-DecorationHover=0,128,116
-ForegroundActive=0,189,171
+DecorationFocus=0,159,144
+DecorationHover=0,159,144
+ForegroundActive=0,179,162
 ForegroundInactive=105,105,105
 ForegroundLink=0,154,139
 ForegroundNegative=218,68,83
 ForegroundNeutral=255,109,0
 ForegroundNormal=223,223,223
-ForegroundPositive=34,204,204
-ForegroundVisited=20,204,186
+ForegroundPositive=19,190,174
+ForegroundVisited=20,204,187
 
 [Colors:Window]
 BackgroundAlternate=48,48,48
 BackgroundNormal=40,40,40
-DecorationFocus=0,128,116
-DecorationHover=0,128,116
-ForegroundActive=0,189,171
+DecorationFocus=0,159,144
+DecorationHover=0,159,144
+ForegroundActive=0,179,162
 ForegroundInactive=105,105,105
 ForegroundLink=0,154,139
 ForegroundNegative=218,68,83
 ForegroundNeutral=255,109,0
 ForegroundNormal=223,223,223
-ForegroundPositive=34,204,204
-ForegroundVisited=20,204,186
+ForegroundPositive=19,190,174
+ForegroundVisited=20,204,187
 
 [General]
 ColorScheme=Materia Manjaro
-Name=Materia Manjaro-2
+Name=Materia Manjaro
 shadeSortColumn=true
 
 [KDE]
@@ -116,4 +116,4 @@ activeBlend=40,40,40
 activeForeground=223,223,223
 inactiveBackground=40,40,40
 inactiveBlend=40,40,40
-inactiveForeground=105,105,105
+inactiveForeground=104,104,104
