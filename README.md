@@ -4,12 +4,12 @@ Materia Manjaro - This is a port of the popular [Materia KDE](https://github.com
 In this repository you'll find:
 - Three sets of folder icons
 - Konsole Color Scheme
-- Two Plasma Color Schemes
+- Plasma Color Scheme
 - Four Plasma Desktop Themes
 - Plasma Look-and-Feel Settings with Splash Screen
-- Two Materia Manjaro GTK Theme made specifically for KDE.
+- Materia Manjaro GTK Theme made specifically for KDE.
 - Kvantum Theme
-- Four Aurorae Themes
+- Two Aurorae Themes
 
 ## Recommendations
 
@@ -21,7 +21,7 @@ In this repository you'll find:
 
 - For better looking use toolbar icons without text with 16px size (for Papirus themes)
 
-- For Materia Blur enable translucency and blur effects on KDE sytemsettings. Set value 6 for blur and 2 for noise strengths on blur effect settings.
+- For Materia Manjaro Blur enable translucency and blur effects on KDE sytemsettings. Set value 6 for blur and 2 for noise strengths on blur effect settings.
 
 - Recommended software for better experience with Materia Blur: Dolphin, Ark, Kate,Falkon, Konsole
 
@@ -72,5 +72,8 @@ Creative Commons Attribution-NonCommercial-ShareAlike
 
 ## Credits go to: Alexey Varfolomeev - https://github.com/PapirusDevelopmentTeam/materia-kde for the orginal Materia-dark theme and many thanks go to him for making such an awesome theme that inspired me to create.
 
-## Wallpaper for theme: Charlie Henson at - https://www.opendesktop.org/u/charlie-henson for the wallpapers.
-# Materia-Manjaro
+## Wallpaper for theme: Charlie Henson at - https://www.opendesktop.org/u/charlie-henson
+
+
+## New gradient Aurorae theme is made from the Breezemite Aurorae theme so many thanks goes to them. Original is here https://store.kde.org/p/1169286                                                            https://github.com/andreyorst/Breezemite
+
