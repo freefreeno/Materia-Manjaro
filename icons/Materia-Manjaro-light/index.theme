@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Materia-Manjaro-light
-Comment=Simple and flat icon theme with long shadow made for Materia Manjaro
+Name=Materia Manjaro light
+Comment=Simple icons adapted from Sardi for Materia Manjaro
 Inherits=breeze-dark,hicolor
 Example=folder
 
