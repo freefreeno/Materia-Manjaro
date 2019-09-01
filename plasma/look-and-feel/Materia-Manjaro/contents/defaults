@@ -18,7 +18,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Materia-Manjaro
+theme=__aurorae__svg__Materia-Manjaro-Gradient
 
 [plasmarc][Theme]
 name=Materia-Manjaro-Blur-Mono

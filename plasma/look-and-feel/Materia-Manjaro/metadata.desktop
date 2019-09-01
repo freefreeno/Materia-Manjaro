@@ -1,13 +1,11 @@
 [Desktop Entry]
-Comment=Materia Style theme with nice green and two color schemes to choose from
-
+Comment=Materia Style theme with nice green
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
 Name=Materia Manjaro
 
 Type=Service
-
-X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-ParentApp=
 X-KDE-PluginInfo-Author=Josh Freeno
 X-KDE-PluginInfo-Category=
@@ -15,7 +13,8 @@ X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-Name=Materia-Manjaro
 X-KDE-PluginInfo-Version=
-X-KDE-PluginInfo-Website=https://github.com/freefreeno/Materia-Manjaro
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
 X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1297506,kns://plasma-themes.knsrc/api.kde-look.org/1297508,kns://aurorae.knsrc/api.kde-look.org/1308855,kns://icons.knsrc/api.kde-look.org/1309919,kns://wallpaper.knsrc/api.kde-look.org/1296893,kns://wallpaper.knsrc/api.kde-look.org/1319754
