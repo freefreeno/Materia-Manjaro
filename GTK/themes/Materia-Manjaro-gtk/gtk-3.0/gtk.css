@@ -105,22 +105,22 @@ widgets main borders color insensitive backdrop */
 @define-color theme_button_background_normal #424242;
 @define-color theme_button_decoration_hover  #009082;
 @define-color theme_button_decoration_focus  #009082;
-@define-color theme_button_foreground_normal #fcfcfc;
+@define-color theme_button_foreground_normal white;
 @define-color theme_button_foreground_active white;
 @define-color theme_button_background_insensitive        rgba(60, 60, 60, 0.35);
 @define-color theme_button_decoration_hover_insensitive  rgba(0, 131, 118, 0.35);
 @define-color theme_button_decoration_focus_insensitive  rgba(0, 131, 118, 0.35);
-@define-color theme_button_foreground_insensitive        rgba(229, 229, 229, 0.35);
+@define-color theme_button_foreground_insensitive        rgba(232, 232, 232, 0.35);
 @define-color theme_button_foreground_active_insensitive rgba(232, 232, 232, 0.35);
 @define-color theme_button_background_backdrop        #424242;
 @define-color theme_button_decoration_hover_backdrop  #009082;
 @define-color theme_button_decoration_focus_backdrop  #009082;
-@define-color theme_button_foreground_backdrop        #fcfcfc;
+@define-color theme_button_foreground_backdrop        white;
 @define-color theme_button_foreground_active_backdrop white;
 @define-color theme_button_background_backdrop_insensitive        rgba(60, 60, 60, 0.35);
 @define-color theme_button_decoration_hover_backdrop_insensitive  rgba(0, 131, 118, 0.35);
 @define-color theme_button_decoration_focus_backdrop_insensitive  rgba(0, 131, 118, 0.35);
-@define-color theme_button_foreground_backdrop_insensitive        rgba(229, 229, 229, 0.35);
+@define-color theme_button_foreground_backdrop_insensitive        rgba(232, 232, 232, 0.35);
 @define-color theme_button_foreground_active_backdrop_insensitive rgba(232, 232, 232, 0.35);
 /*
 these are pretty self explicative */
