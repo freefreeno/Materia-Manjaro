@@ -4,16 +4,16 @@ Materia Manjaro - This is a port of the popular [Materia KDE](https://github.com
 In this repository you'll find:
 - Three sets of folder icons
 - Konsole Color Scheme
-- Plasma Color Scheme
+- Three Plasma Color Scheme ( I added a high contrast version )
 - Four Plasma Desktop Themes
 - Plasma Look-and-Feel Settings with Splash Screen
-- Materia Manjaro GTK Theme made specifically for KDE.
+- Three Materia Manjaro GTK Themes made specifically for KDE.
 - Kvantum Theme
 - Two Aurorae Themes
 
 ## Recommendations
 
-- Install Materia Manjaro icons for better looking desktop.
+- If you are like me an like the Breeze window decorations then thiis theme looks great with Breeze. Turns shades on medium at about 65% with color #000000 and it will look great.Either way you will still have the two Aurorae themes to use also.
 
 - Set tree menu view for systemsettings
 
