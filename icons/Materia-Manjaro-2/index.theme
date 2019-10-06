@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Materia Manjaro 2
 Comment=Simple icons adapted from Sardi for Materia Manjaro
-Inherits=breeze-dark,hicolor
+Inherits=Materia-Manjaro-Breeze-Dark,breeze-dark,gnome,hicolor
 Example=folder
 
 
