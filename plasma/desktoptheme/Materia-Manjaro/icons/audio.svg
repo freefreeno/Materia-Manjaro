@@ -24,9 +24,9 @@
  <g id="audio-volume-low" transform="translate(32,32)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="-32"/>
   <g transform="translate(1,-32)">
-   <path style="fill:#9c85f5" d="M 14.999,2 7,10.002 H 1 v 12 H 7 L 14.999,30 Z"/>
-   <path style="opacity:0.2;fill:#9c85f5" d="m 18.999,2 v 3 c 4.64,1.48 8,5.86 8,11 0,5.14 -3.36,9.52 -8,11 v 3 c 6.3,-1.56 11,-7.2 11,-14 0,-6.8 -4.7,-12.44 -11,-14 z"/>
-   <path style="opacity:0.2;fill:#9c85f5" d="m 18.999,10 v 12 c 2.12,-1.16 3.582,-3.4 3.582,-6 0,-2.6 -1.442,-4.84 -3.582,-6 z"/>
+   <path style="fill:#00c8b5" d="M 14.999,2 7,10.002 H 1 v 12 H 7 L 14.999,30 Z"/>
+   <path style="opacity:0.2;fill:#00c8b5" d="m 18.999,2 v 3 c 4.64,1.48 8,5.86 8,11 0,5.14 -3.36,9.52 -8,11 v 3 c 6.3,-1.56 11,-7.2 11,-14 0,-6.8 -4.7,-12.44 -11,-14 z"/>
+   <path style="opacity:0.2;fill:#00c8b5" d="m 18.999,10 v 12 c 2.12,-1.16 3.582,-3.4 3.582,-6 0,-2.6 -1.442,-4.84 -3.582,-6 z"/>
    <path style="opacity:0.2;fill:#dfdfdf" d="M 14.998,2 7,10.002 H 1 v 1 H 7 L 14.998,3 Z"/>
    <path style="opacity:0.2" d="m 1,22.002 v 1 H 7 L 14.998,31 V 30 L 7,22.002 Z"/>
   </g>
@@ -34,7 +34,7 @@
  <g id="audio-volume-muted" transform="translate(0,32)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="-32"/>
   <g transform="translate(1,-32)">
-   <path style="fill:#9c85f5" d="M 14.999,2 7,10.002 H 1 v 12 H 7 L 14.999,30 Z"/>
+   <path style="fill:#00c8b5" d="M 14.999,2 7,10.002 H 1 v 12 H 7 L 14.999,30 Z"/>
    <path style="opacity:0.2;fill:#dfdfdf" d="M 14.998,2 7,10.002 H 1 v 1 H 7 L 14.998,3 Z"/>
    <path style="opacity:0.2" d="m 1,22.002 v 1 H 7 L 14.998,31 V 30 L 7,22.002 Z"/>
    <circle style="fill:#db3c30" cx="18" cy="24" r="7"/>
@@ -48,9 +48,9 @@
  <g id="audio-volume-medium" transform="translate(64,32)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="-32"/>
   <g transform="translate(1,-32)">
-   <path style="fill:#9c85f5" d="M 14.999,2 7,10.002 H 1 v 12 H 7 L 14.999,30 Z"/>
-   <path style="opacity:0.2;fill:#9c85f5" d="m 18.999,2 v 3 c 4.64,1.48 8,5.86 8,11 0,5.14 -3.36,9.52 -8,11 v 3 c 6.3,-1.56 11,-7.2 11,-14 0,-6.8 -4.7,-12.44 -11,-14 z"/>
-   <path style="fill:#9c85f5" d="m 18.999,10 v 12 c 2.12,-1.16 3.582,-3.4 3.582,-6 0,-2.6 -1.442,-4.84 -3.582,-6 z"/>
+   <path style="fill:#00c8b5" d="M 14.999,2 7,10.002 H 1 v 12 H 7 L 14.999,30 Z"/>
+   <path style="opacity:0.2;fill:#00c8b5" d="m 18.999,2 v 3 c 4.64,1.48 8,5.86 8,11 0,5.14 -3.36,9.52 -8,11 v 3 c 6.3,-1.56 11,-7.2 11,-14 0,-6.8 -4.7,-12.44 -11,-14 z"/>
+   <path style="fill:#00c8b5" d="m 18.999,10 v 12 c 2.12,-1.16 3.582,-3.4 3.582,-6 0,-2.6 -1.442,-4.84 -3.582,-6 z"/>
    <path style="opacity:0.2;fill:#dfdfdf" d="M 14.998,2 7,10.002 H 1 v 1 H 7 L 14.998,3 Z"/>
    <path style="opacity:0.2;fill:#dfdfdf" d="m 18.998,10 v 1 c 2,1.084 3.374,3.117 3.547,5.5 0.012,-0.167 0.035,-0.33 0.035,-0.5 0,-2.6 -1.442,-4.84 -3.582,-6 z"/>
    <path style="opacity:0.2" d="m 1,22.002 v 1 H 7 L 14.998,31 V 30 L 7,22.002 Z"/>
@@ -60,9 +60,9 @@
  <g id="audio-volume-high" transform="translate(96,32)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="-32"/>
   <g transform="translate(1,-32)">
-   <path style="fill:#9c85f5" d="M 14.999,2 7,10.002 H 1 v 12 H 7 L 14.999,30 Z"/>
-   <path style="fill:#9c85f5" d="m 18.999,2 v 3 c 4.64,1.48 8,5.86 8,11 0,5.14 -3.36,9.52 -8,11 v 3 c 6.3,-1.56 11,-7.2 11,-14 0,-6.8 -4.7,-12.44 -11,-14 z"/>
-   <path style="fill:#9c85f5" d="m 18.999,10 v 12 c 2.12,-1.16 3.582,-3.4 3.582,-6 0,-2.6 -1.442,-4.84 -3.582,-6 z"/>
+   <path style="fill:#00c8b5" d="M 14.999,2 7,10.002 H 1 v 12 H 7 L 14.999,30 Z"/>
+   <path style="fill:#00c8b5" d="m 18.999,2 v 3 c 4.64,1.48 8,5.86 8,11 0,5.14 -3.36,9.52 -8,11 v 3 c 6.3,-1.56 11,-7.2 11,-14 0,-6.8 -4.7,-12.44 -11,-14 z"/>
+   <path style="fill:#00c8b5" d="m 18.999,10 v 12 c 2.12,-1.16 3.582,-3.4 3.582,-6 0,-2.6 -1.442,-4.84 -3.582,-6 z"/>
    <path style="opacity:0.2;fill:#dfdfdf" d="M 14.998,2 7,10.002 H 1 v 1 H 7 L 14.998,3 Z"/>
    <path style="opacity:0.2;fill:#dfdfdf" d="m 18.998,2 v 1 c 6.144,1.5213 10.753,6.9266 10.979,13.5 0.005,-0.167 0.021,-0.331 0.021,-0.5 0,-6.8 -4.7,-12.44 -11,-14 z m 7.981,14.5 c -0.211,4.922 -3.493,9.068 -7.981,10.5 v 1 c 4.64,-1.48 8,-5.86 8,-11 0,-0.168 -0.012,-0.334 -0.019,-0.5 z"/>
    <path style="opacity:0.2;fill:#dfdfdf" d="m 18.998,10 v 1 c 2,1.084 3.374,3.117 3.547,5.5 0.012,-0.167 0.035,-0.33 0.035,-0.5 0,-2.6 -1.442,-4.84 -3.582,-6 z"/>

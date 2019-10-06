@@ -1,8 +1,10 @@
 [Desktop Entry]
 Name=Materia Manjaro Blur Mono
 
-X-KDE-PluginInfo-Author=Alexey Varfolomeev/Josh Freeno for Materia Manjaro
-X-KDE-PluginInfo-Email=varlesh@gmail.com/ freefreeno81@gmail.com
+Comment=A port of the popular Materia Dark theme
+
+X-KDE-PluginInfo-Author=freefreeno
+X-KDE-PluginInfo-Email=freefreeno81@gmail.com
 X-KDE-PluginInfo-Name=Materia Manjaro Blur Mono
 X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=
