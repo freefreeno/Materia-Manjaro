@@ -77,3 +77,29 @@ Creative Commons Attribution-NonCommercial-ShareAlike
 
 ## New gradient Aurorae theme is made from the Breezemite Aurorae theme so many thanks goes to them. Original is here https://store.kde.org/p/1169286                                                            https://github.com/andreyorst/Breezemite
 
+Locations at the KDE store:
+
+The new Breeze style icons are here:
+https://www.pling.com/p/1328981
+
+The folder icons are here:
+https://www.pling.com/p/1309919
+
+The Konsole theme is here:
+https://www.pling.com/p/1297510
+
+The GTK theme is here:
+https://www.pling.com/p/1300363
+
+The look and feel theme is here:
+https://www.pling.com/p/1297514
+
+The Aurorae themes are here:
+https://www.pling.com/p/1308855
+
+The Plasma themes are here:
+https://www.pling.com/p/1297508
+
+The Plasma color schemes are here:
+https://www.pling.com/p/1297506
+

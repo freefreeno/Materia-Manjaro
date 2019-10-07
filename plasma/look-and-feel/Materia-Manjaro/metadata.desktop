@@ -18,4 +18,4 @@ X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=https://github.com/freefreeno/Materia-Manjaro
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1297506,kns://plasma-themes.knsrc/api.kde-look.org/1297508,kns://aurorae.knsrc/api.kde-look.org/1308855,kns://icons.knsrc/api.kde-look.org/1309919,kns://wallpaper.knsrc/api.kde-look.org/1296893,kns://wallpaper.knsrc/api.kde-look.org/1319754
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1297506,kns://plasma-themes.knsrc/api.kde-look.org/1297508,kns://aurorae.knsrc/api.kde-look.org/1308855,kns://icons.knsrc/api.kde-look.org/1309919,kns://icons.knsrc/api.kde-look.org/1328981,kns://wallpaper.knsrc/api.kde-look.org/1296893,kns://wallpaper.knsrc/api.kde-look.org/1328975
