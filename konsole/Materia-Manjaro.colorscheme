@@ -5,91 +5,91 @@ Color=40,40,40
 Color=40,40,40
 
 [BackgroundIntense]
-Color=34,34,34
+Color=40,40,40
 
 [Color0]
-Color=40,40,40
+Color=63,63,63
 
 [Color0Faint]
-Color=40,40,40
+Color=63,63,63
 
 [Color0Intense]
-Color=127,140,141
+Color=112,144,128
 
 [Color1]
-Color=225,66,69
+Color=143,91,91
 
 [Color1Faint]
-Color=120,50,40
+Color=143,91,91
 
 [Color1Intense]
-Color=192,57,43
+Color=219,162,162
 
 [Color2]
-Color=85,186,121
+Color=83,206,193
 
 [Color2Faint]
-Color=20,148,89
+Color=83,206,193
 
 [Color2Intense]
-Color=0,200,83
+Color=115,215,204
 
 [Color3]
-Color=246,116,0
+Color=221,171,138
 
 [Color3Faint]
-Color=182,86,25
+Color=221,171,138
 
 [Color3Intense]
-Color=253,188,75
+Color=232,199,178
 
 [Color4]
-Color=0,175,158
+Color=111,155,223
 
 [Color4Faint]
-Color=0,134,121
+Color=111,155,223
 
 [Color4Intense]
-Color=0,200,181
+Color=141,175,229
 
 [Color5]
-Color=141,80,141
+Color=113,88,139
 
 [Color5Faint]
-Color=119,68,119
+Color=113,88,139
 
 [Color5Intense]
-Color=168,103,168
+Color=146,122,171
 
 [Color6]
-Color=66,133,244
+Color=94,209,168
 
 [Color6Faint]
-Color=53,66,132
+Color=94,209,168
 
 [Color6Intense]
-Color=106,166,244
+Color=129,219,187
 
 [Color7]
-Color=239,240,241
+Color=217,217,201
 
 [Color7Faint]
-Color=99,104,109
+Color=217,217,201
 
 [Color7Intense]
-Color=252,252,252
+Color=255,255,255
 
 [Foreground]
-Color=239,240,241
+Color=0,210,190
 
 [ForegroundFaint]
-Color=220,230,231
+Color=0,210,190
 
 [ForegroundIntense]
-Color=252,252,252
+Color=0,210,190
 
 [General]
 Blur=false
-Description=Materia Manjaro
+Description=Materia-Manjaro
 Opacity=1
 Wallpaper=
