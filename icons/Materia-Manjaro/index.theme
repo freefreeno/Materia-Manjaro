@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Materia Manjaro
 Comment=Simple icons adapted from Sardi for Materia Manjaro
-Inherits=Materia-Manjaro-Breeze-Dark,breeze-dark,gnome,hicolor
+Inherits=breeze-dark,gnome,hicolor
 Example=folder
 
 
@@ -27,12 +27,9 @@ DialogSizes=16,22,32,48,64,128,256
 Directories=scalable/places
 
 
-
 [scalable/places]
 Size=48
 Context=Places
 Type=Scalable
 MinSize=16
 MaxSize=512
-
-
