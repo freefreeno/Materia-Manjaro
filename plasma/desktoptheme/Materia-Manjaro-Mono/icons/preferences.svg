@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
  <g id="22-22-preferences-desktop-notification" transform="translate(32,-62)">
   <rect style="opacity:0.001" width="22" height="22" x="0" y="40"/>
-  <path style="fill:#2d9d91" d="m 11,43 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z"/>
+  <path style="fill:#00a696" d="m 11,43 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z"/>
   <path style="fill:#ffffff" d="m 10,47 v 6 h 2 v -6 z m 1,7 c -0.453152,0 -1,0.518427 -1,0.980469 C 10,55.442512 10.546848,56 11,56 11.453152,56 12,55.442512 12,54.980469 12,54.518427 11.453152,54 11,54 Z"/>
  </g>
  <g id="22-22-preferences-system-bluetooth-activated" transform="translate(96,-126)">
@@ -32,7 +32,7 @@
  </g>
  <g id="preferences-desktop-notification" transform="translate(32)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <path style="fill:#2d9d91" d="M 15.5,4 A 11.5,11.5 0 0 0 4,15.5 11.5,11.5 0 0 0 15.5,27 11.5,11.5 0 0 0 27,15.5 11.5,11.5 0 0 0 15.5,4 Z"/>
+  <path style="fill:#00a696" d="M 15.5,4 A 11.5,11.5 0 0 0 4,15.5 11.5,11.5 0 0 0 15.5,27 11.5,11.5 0 0 0 27,15.5 11.5,11.5 0 0 0 15.5,4 Z"/>
   <path style="fill:#ffffff" transform="translate(-160)" d="m 174,9 v 8 h 3 V 9 Z m 1.5,10 C 174.82027,19 174,19.77764 174,20.470703 174,21.163769 174.82027,22 175.5,22 176.17973,22 177,21.163769 177,20.470703 177,19.77764 176.17973,19 175.5,19 Z"/>
  </g>
  <g id="preferences-system-bluetooth" transform="translate(128)">

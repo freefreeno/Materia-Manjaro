@@ -1,11 +1,12 @@
 [Desktop Entry]
 Name=Materia Manjaro
-Comment=A port of the popular Materia Dark theme
+
+Comment=Materia Manjaro is a port of the popular Materia Dark theme
 
 X-KDE-PluginInfo-Author=freefreeno
 X-KDE-PluginInfo-Email=freefreeno81@gmail.com
 X-KDE-PluginInfo-Name=Materia-Manjaro
-X-KDE-PluginInfo-Version=5.63.0-1
+X-KDE-PluginInfo-Version=5.63.0
 X-KDE-PluginInfo-Website=
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
