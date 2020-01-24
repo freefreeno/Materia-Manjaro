@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
  <linearGradient id="a" x2="0" y1="29" y2="8" gradientUnits="userSpaceOnUse">
-  <stop offset="0" stop-color="#00c8b5"/>
-  <stop offset="1" stop-color="#00fbe3"/>
+  <stop offset="0" stop-color="#00c9b6"/>
+  <stop offset="1" stop-color="#00fce4"/>
  </linearGradient>
- <path fill="#009082" d="m2 3v8h28v-6h-14l-2-2z"/>
+ <path fill="#009183" d="m2 3v8h28v-6h-14l-2-2z"/>
  <path fill="url(#a)" d="m13 8-2 2h-10v19h30v-21z"/>
  <g fill-opacity=".235">
   <path fill="#fff" d="m13 8-2 2h-10v1h11z"/>
@@ -11,5 +11,5 @@
   <path d="m1 28h30v1h-30z"/>
   <path d="m13 8-2 1h-9v1h9z"/>
  </g>
- <path fill="#008175" d="m18 13h-2l-5 10h2zm-2 9h5v1h-5z"/>
+ <path fill="#008276" d="m18 13h-2l-5 10h2zm-2 9h5v1h-5z"/>
 </svg>

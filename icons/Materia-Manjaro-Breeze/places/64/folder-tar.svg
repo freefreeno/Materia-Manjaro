@@ -2,19 +2,19 @@
  <defs>
   <linearGradient id="linearGradient4178" x2="0" y1="541.798" y2="499.784" gradientTransform="matrix(1 0 0 0.99967455 0 0.17645)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4172-5"/>
   <linearGradient id="linearGradient4172-5">
-   <stop style="stop-color:#00c8b5"/>
-   <stop style="stop-color:#00fbe3" offset="1"/>
+   <stop style="stop-color:#00c9b6"/>
+   <stop style="stop-color:#00fce4" offset="1"/>
   </linearGradient>
  </defs>
  <g transform="matrix(1 0 0 1 -384.57143 -483.798)">
   <g transform="matrix(1 0 0 1 0 0.000005)">
-   <path style="fill:#009082" d="m 388.57143,489.79812 0,5 0,22 c 0,0.55373 0.446,1 1,1 l 54,0 c 0.55399,0 1,-0.44627 1,-1 l 0,-21.99023 c 0,-0.003 -0.002,-0.006 -0.002,-0.01 l 0.002,0 0,-1 -28,0 -4,-4 -24,0 z"/>
+   <path style="fill:#009183" d="m 388.57143,489.79812 0,5 0,22 c 0,0.55373 0.446,1 1,1 l 54,0 c 0.55399,0 1,-0.44627 1,-1 l 0,-21.99023 c 0,-0.003 -0.002,-0.006 -0.002,-0.01 l 0.002,0 0,-1 -28,0 -4,-4 -24,0 z"/>
    <path style="fill:url(#linearGradient4178)" d="m 410.57143,499.79812 -4,4 -19,0 0,1 0.002,0 c -5e-5,0.004 -0.002,0.008 -0.002,0.0117 l 0,35.98828 0,1 1,0 56,0 1,0 0,-1 0,-35.98828 0,-0.0117 0,-5 z"/>
    <path style="fill:#ffffff;fill-opacity:0.235294;fill-rule:evenodd" d="m 387.57144,503.79812 0,1 19.99999,0 3,-5 -4,4 z"/>
    <path style="fill-opacity:0.235294;fill-rule:evenodd" d="m 388.57143,502.79812 0,1 18,0 4,-4 -6,3 z"/>
    <path style="fill-opacity:0.235294" d="m 387.57143,540.7981 0,1 1,0 56,0 1,0 0,-1 -1,0 -56,0 -1,0 z"/>
    <path style="fill:#ffffff;fill-opacity:0.235294;fill-rule:evenodd" transform="matrix(1 0 0 1 384.57143 483.798)" d="m 28,6 3,5 2,0 27,0 0,-1 -27,0 -1,0 z"/>
   </g>
-  <path style="fill:#008175" d="m 406.57143,510.798 0,20 20,0 0,-20 z m 1,1 7,0 0,2 2,0 0,-2 9,0 0,18 -18,0 z m 9,2 0,2 2,0 0,-2 z m 0,2 -2,0 0,2 2,0 z m 0,2 0,2 2,0 0,-2 z m 0,2 -2,0 0,2 2,0 z m 0,3 -2,0 0,2 4,0 c 0,-2 0,-1.82594 0,-3 l -2,0 c 0,0.66666 0,0.33334 0,1 z"/>
+  <path style="fill:#008276" d="m 406.57143,510.798 0,20 20,0 0,-20 z m 1,1 7,0 0,2 2,0 0,-2 9,0 0,18 -18,0 z m 9,2 0,2 2,0 0,-2 z m 0,2 -2,0 0,2 2,0 z m 0,2 0,2 2,0 0,-2 z m 0,2 -2,0 0,2 2,0 z m 0,3 -2,0 0,2 4,0 c 0,-2 0,-1.82594 0,-3 l -2,0 c 0,0.66666 0,0.33334 0,1 z"/>
  </g>
 </svg>

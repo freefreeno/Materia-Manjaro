@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1.1">
  <defs>
   <linearGradient id="linearGradient4172-5">
-   <stop style="stop-color:#00c8b5"/>
-   <stop style="stop-color:#00fbe3" offset="1"/>
+   <stop style="stop-color:#00c9b6"/>
+   <stop style="stop-color:#00fce4" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4342" x2="0" y1="29" y2="8" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4172-5"/>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#008175; }
+   .ColorScheme-Text { color:#008276; }
   </style>
  </defs>
  <g transform="matrix(1 0 0 1 -384.57143 -515.798)">
   <g transform="matrix(1 0 0 1 -0.000006 0)">
-   <path style="fill:#009082;fill-rule:evenodd" d="m 386.57144,518.798 0,7 0,1 28,0 0,-6 -14.00001,0 -2,-2 z"/>
+   <path style="fill:#009183;fill-rule:evenodd" d="m 386.57144,518.798 0,7 0,1 28,0 0,-6 -14.00001,0 -2,-2 z"/>
    <path style="fill-opacity:0.235294;fill-rule:evenodd" d="m 397.57143,523.798 -1.99999,1 -9,0 0,1 6.99999,0 3,0 z"/>
    <path style="fill:url(#linearGradient4342)" transform="matrix(1 0 0 1 384.57143 515.798)" d="m 13,8 -2,2 -9,0 -1,0 0,19 11,0 1,0 18,0 0,-21 -18,0 z"/>
    <path style="fill:#ffffff;fill-opacity:0.235294;fill-rule:evenodd" d="m 397.57143,523.798 -2,2 -10,0 0,1 11,0 z"/>
