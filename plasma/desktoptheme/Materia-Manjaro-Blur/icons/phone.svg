@@ -41,6 +41,6 @@
   <rect width="3" height="1" x="9" y="28" rx=".5" ry=".5" style="fill:#4d4d4d"/>
   <circle cx="19.5" cy="2.5" r=".5" style="fill:#333333"/>
   <path style="opacity:0.2" d="m 16,10 v 5 h 4 l -4,7 v -5 h -4 z"/>
-  <path style="fill:#f45744" d="m 16,9 v 5 h 4 l -4,7 v -5 h -4 z"/>
+  <path style="fill:#f3514e" d="m 16,9 v 5 h 4 l -4,7 v -5 h -4 z"/>
  </g>
 </svg>

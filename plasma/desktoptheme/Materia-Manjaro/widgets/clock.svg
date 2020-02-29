@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg59" width="172" height="172" version="1">
  <g id="SecondHand">
   <rect id="rect8" style="opacity:0.001" width="22" height="96" x="233" y="76"/>
-  <path id="path10" style="fill:#ff9800" d="m 245,83 v 78.99958 c 0,0 0,4.2e-4 -1,4.2e-4 -1,0 -1,4.2e-4 -1,4.2e-4 V 83.00027 Z"/>
+  <path id="path10" style="fill:#ff9605" d="m 245,83 v 78.99958 c 0,0 0,4.2e-4 -1,4.2e-4 -1,0 -1,4.2e-4 -1,4.2e-4 V 83.00027 Z"/>
   <circle id="circle848" style="fill:none;stroke-width:2;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.05" cx="244" cy="87" r="10"/>
   <circle id="circle846" style="fill:none;stroke-width:1;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.05" cx="244" cy="87" r="10"/>
   <circle id="circle16" style="fill:#4f4f4f;stroke-width:1.11111116" cx="244" cy="87" r="10"/>

@@ -91,7 +91,7 @@
   <circle style="fill:#e4e4e4" cx="18.5" cy="16.5" r="1.5"/>
   <circle style="fill:#e4e4e4" cx="23.5" cy="16.5" r="1.5"/>
   <rect style="fill:#e4e4e4" width="20" height="3" x="6" y="21" rx=".75" ry=".75"/>
-  <circle style="fill:#f45744" cx="24" cy="23" r="8"/>
+  <circle style="fill:#f3514e" cx="24" cy="23" r="8"/>
   <path style="opacity:0.1" d="M 31.979,23.424 A 8,8 0 0 1 24,31 8,8 0 0 1 16.021,23.576 8,8 0 0 0 16,24 a 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -0.02148,-0.57617 z"/>
   <path style="fill:#ffffff" d="m 24,18 v 4 h 4 l -4,6 v -4 h -4 z"/>
  </g>
@@ -107,7 +107,7 @@
    <path style="opacity:0.1;fill:#ffffff" d="m 16,2 c -0.012,0 -0.02511,0.00195 -0.03711,0.00195 h -0.0039 C 11.473084,2.029953 7,6.6789689 7,10.167969 v 1 C 7,7.6789687 11.473084,3.029953 15.958984,3.0019531 h 0.0039 C 15.974891,3.0019531 15.988,3 16,3 v 0.00391 c 4.505999,0.029 9,4.8564215 9,8.482422 v -1 C 25,6.8603279 20.505999,2.0329062 16,2.0039062 Z"/>
   </g>
   <g transform="translate(66.021,6.576)">
-   <circle style="fill:#f45744" cx="-42.021" cy="16.424" r="8"/>
+   <circle style="fill:#f3514e" cx="-42.021" cy="16.424" r="8"/>
    <path style="opacity:0.1" d="M -34.042,16.848 A 8,8 0 0 1 -42.021,24.424 8,8 0 0 1 -50,17 a 8,8 0 0 0 -0.021,0.424 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -0.02148,-0.57617 z"/>
    <path style="fill:#ffffff" d="m -42.021,11.424 v 4 h 4 l -4,6 v -4 h -4 z"/>
   </g>
@@ -183,7 +183,7 @@
     <rect width="4" height="1" x="24" y="17"/>
    </g>
    <path style="opacity:0.2" d="m 3,27.699 v 1 C 3,29.419 3.5806,30 4.3008,30 h 23.398 c 0.72,0 1.301,-0.581 1.301,-1.301 v -1 c 0,0.72 -0.581,1.301 -1.301,1.301 H 4.3008 c -0.7204,0 -1.301,-0.581 -1.301,-1.301 z"/>
-   <circle style="fill:#db3c30" cx="24" cy="24" r="7"/>
+   <circle style="fill:#dc2c29" cx="24" cy="24" r="7"/>
    <path style="opacity:0.2" d="M 30.977,24.459 A 7,7 0 0 1 24,31 7,7 0 0 1 17.023,24.541 7,7 0 0 0 17,25 a 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -0.02344,-0.54102 z"/>
    <g style="fill:#dfdfdf" transform="matrix(0.70711,-0.70711,0.70711,0.70711,-9.9411,24)">
     <rect style="fill:#ffffff" width="8" height="2" x="20" y="23"/>
@@ -257,7 +257,7 @@
    <g transform="translate(91,36)">
     <g transform="translate(20,-5)">
      <circle style="opacity:0.2" cx="32" cy="33" r="8"/>
-     <circle style="fill:#f34235" cx="32" cy="32" r="8"/>
+     <circle style="fill:#f34845" cx="32" cy="32" r="8"/>
     </g>
     <path style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 55,24 -6,6 v 0 0 m 0,-6 6,6"/>
    </g>
