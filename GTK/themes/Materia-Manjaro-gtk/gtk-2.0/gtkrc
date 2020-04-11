@@ -1,5 +1,5 @@
-# Theme:       Breeze-gtk
-# Description: Breeze theme for GTK+2.0
+# Theme:       Materia Manjaro
+# Description: Materia Manjaro theme for GTK+2.0
 
 gtk-color-scheme = "text_color:#dedede"
 gtk-color-scheme = "base_color:#303030"
